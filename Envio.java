@@ -1,10 +1,8 @@
-
-/**
- *  Un objeto de esta clase representa un envío de varios paquetes,
- *  máximo tres
+ /**
+ *  Un objeto de esta clase representa un envío de varios paquetes, máximo tres
  *  
  * 
- * @author -  
+ * @author - Carlos Arevalo
  *  
  */
 public class Envio
